@@ -1,0 +1,87 @@
+body{
+    background-color: yellowgreen;
+}
+
+#footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 60px; 
+    background-color:black;
+    color: white;
+    text-align: center;
+   
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: black;
+  }
+  
+#di {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+  }
+
+#myform{
+  min-height: 550px;
+}
+#homediv {
+ 
+  width: 100%;
+  min-height: 590px;
+}
+
+#displaydiv {
+  width: 50%;
+  min-height: 590px;
+  /* height: 590px; */
+  
+}
+
+#searchbyrollnumberdiv{
+  width: 100%;
+  min-height: 590px;
+
+}
+#sbn{
+  width: 100%;
+  min-height: 590px;
+  
+}
+
+#deldata{
+  width: 100%;
+  min-height: 590px;
+  
+}
+
+#updd{
+  width: 100%;
+  min-height: 590px;
+
+}
